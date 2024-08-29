@@ -1,0 +1,5 @@
+1.util.py: codes for some basic functions
+2.alternatives.py: codes for alternatives (OLS, GWR, Lasso, GWL).
+3.GWGPL.py: codes for the proposed approach (GWGPL).
+4.data_generation.py: codes for generating simulation data.
+5.simulation.py: codes to replicate simulation studies.
